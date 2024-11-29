@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\repos\NatureRepository.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\entities\Pieces.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\service\PieceService.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\repos\PieceRepository.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\service\PieceServiceImpl.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\restcontrollers\NatureRESTController.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\security\SecurityConfig.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\entities\Nature.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\entities\PieceProjection.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\security\SecParams.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\PiecesApplication.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\restcontrollers\PieceRESTController.java
+C:\Users\LENOVO\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\Gestion-Piece-back-end-main-spring4.1\src\main\java\com\oussema\pieces\security\JWTAuthorizationFilter.java
